@@ -1,2 +1,2 @@
 # turbo-succotash
-java设计设计模式
+java设计模式
