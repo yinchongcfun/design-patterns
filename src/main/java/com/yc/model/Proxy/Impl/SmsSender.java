@@ -1,9 +1,6 @@
-package com.yc.model.Service.Impl;
+package com.yc.model.Proxy.Impl;
 
-import com.yc.model.Service.SendDao;
-import javafx.print.PaperSource;
-
-import java.sql.SQLOutput;
+import com.yc.model.Proxy.SendDao;
 
 /**
  * @author cfun

@@ -1,6 +1,6 @@
-package com.yc.model.Service.Impl;
+package com.yc.model.Proxy.Impl;
 
-import com.yc.model.Service.IUserDao;
+import com.yc.model.Proxy.IUserDao;
 
 public class UserDao implements IUserDao {
     @Override

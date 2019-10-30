@@ -1,7 +1,6 @@
-package com.yc.model.Service.Impl;
+package com.yc.model.Proxy.Impl;
 
-import ch.qos.logback.core.net.SyslogOutputStream;
-import com.yc.model.Service.SendDao;
+import com.yc.model.Proxy.SendDao;
 
 /**
  * @author cfun
