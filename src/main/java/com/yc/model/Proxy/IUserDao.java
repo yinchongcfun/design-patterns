@@ -1,4 +1,4 @@
-package com.yc.model.Service;
+package com.yc.model.Proxy;
 
 public interface IUserDao {
     void save();

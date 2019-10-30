@@ -1,7 +1,5 @@
 package com.yc.model.Proxy;
 
-import com.yc.model.Service.IUserDao;
-
 public class UserDaoProxy implements IUserDao {
     //接收保存目标对象
     private IUserDao target;

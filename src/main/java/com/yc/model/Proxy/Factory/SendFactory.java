@@ -1,7 +1,4 @@
-package com.yc.model.Factory;
-
-import com.yc.model.Service.Impl.MailSender;
-import com.yc.model.Service.Impl.SmsSender;
+package com.yc.model.Proxy.Factory;
 
 /**
  * @author cfun

@@ -1,8 +1,8 @@
 package com.yc.model;
 
 import com.yc.model.Proxy.ProxyFactory.CglibProxyFacory;
-import com.yc.model.Service.IUserDao;
-import com.yc.model.Service.Impl.UserDao;
+import com.yc.model.Proxy.IUserDao;
+import com.yc.model.Proxy.Impl.UserDao;
 
 public class ProxyTest {
     public static void main (String[] args){
